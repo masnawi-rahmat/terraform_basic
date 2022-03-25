@@ -1,4 +1,4 @@
-# terraform_basic
+# terraform_basic_00
 # this terraform code creates an 'imaginary' company and its departments as directory and subdirectories with department heads named in respective txt files
 # objectives of this terraform code is to give you the basic understanding of how terraform works by invoking the local_file resource function by:
 # (1) creating directory and subdirectories in your local machine
