@@ -1,4 +1,4 @@
-# terraform_basic
+# terraform_basic_00
 # this terraform is created by masnawi rahmat
 # in Generation SG/Temasek Poly SGUPMSCT Cloud Support and DevOps Bootcamp cohort no 4 Yr 2022
 # this terraform is created with learning purpose more than optimisation in mind
